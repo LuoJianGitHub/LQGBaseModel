@@ -1,0 +1,23 @@
+PODS:
+  - LQGBaseModel (1.0.0):
+    - YYModel
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - LQGBaseModel (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - YYModel
+
+EXTERNAL SOURCES:
+  LQGBaseModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGBaseModel: 87610fa31ae1c443899237bf3d6725277de875e7
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 4475ab85fdefd0d6134ce8d731a9dc30c6a41adb
+
+COCOAPODS: 1.11.2
